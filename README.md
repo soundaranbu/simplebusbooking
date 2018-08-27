@@ -1,4 +1,4 @@
-# simplebusbooking
+# Simple Bus Booking
 
 A Simple Bus Booking Application in Java.
 
